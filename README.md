@@ -1,3 +1,3 @@
 # Meme-maker
 learn HTML5 canvas	
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/Paarmita/Meme-maker/blob/master/Screenshot.png)
